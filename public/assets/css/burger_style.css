@@ -1,0 +1,74 @@
+body {
+	background-image: url(https://d4qwptktddc5f.cloudfront.net/01-yodstudio-shadeburger-tables-large.jpg);
+  height: 80%;
+  width: 80%;
+  background-size: cover;
+	background-position: top;
+  font-family: 'Amatic SC', cursive;
+  font-size: 270%;
+}
+
+.app1{
+  margin-top: 30%;
+  margin-left: 160px;
+}
+
+h1 {
+  color: #ff8c1a;
+  font-family: 'Amatic SC', cursive;
+  font-size: 220%;
+  box-sizing: 10px;
+  box-shadow: 10px 10px lightgrey;
+  background-color: white;
+  opacity: .85;
+  border-radius: 10px;
+}
+
+.list-group-item-warning {
+  color: black;
+  font-weight: bold;
+  background-color: grey;
+  border-color: #6d609e;
+  opacity: .9;
+}
+
+.form-control {
+  font-size: 20px;
+}
+
+.list-group-item-info {
+  color: grey;
+  background-color:black;
+  border-color: #6d609e;
+  opacity: .8;
+}
+
+textarea.form-control {
+  color: black;
+  border: 2px solid gray;
+  border-radius: 10px;
+  opacity: .8;
+}
+
+.eatBurger {
+  position: absolute;
+  top: 6px;
+  right: -125px;
+  background-color: #b7bfc8;
+  color: black;
+  font-weight: bold;
+}
+
+.delete {
+  position: absolute;
+  top: 5px;
+  right: -140px;
+  color: black;
+  background-color: #b7bfc8;
+  /*size: 10px;*/
+}
+
+.submitBurger {
+  color: #A0522D;
+  margin-top: 20px;
+}
