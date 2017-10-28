@@ -1,7 +1,7 @@
 body {
 	background-image: url(https://d4qwptktddc5f.cloudfront.net/01-yodstudio-shadeburger-tables-large.jpg);
-  height: 80%;
-  width: 80%;
+  height: 75%;
+  width: 75%;
   background-size: cover;
 	background-position: top;
   font-family: 'Amatic SC', cursive;
@@ -9,8 +9,8 @@ body {
 }
 
 .app1{
-  margin-top: 30%;
-  margin-left: 160px;
+  margin-top: 15%;
+  margin-left: 170px;
 }
 
 h1 {
